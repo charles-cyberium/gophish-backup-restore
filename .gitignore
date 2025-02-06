@@ -131,3 +131,6 @@ dmypy.json
 
 .vscode/
 *.zip
+
+.env
+.gophish_backup.zip
