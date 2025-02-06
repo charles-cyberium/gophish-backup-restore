@@ -1,2 +1,3 @@
 #!/bin/bash
-REQUESTS_CA_BUNDLE="" $@
+#export CURL_CA_BUNDLE=""
+CURL_CA_BUNDLE="" $@
